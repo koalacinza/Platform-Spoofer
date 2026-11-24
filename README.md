@@ -4,11 +4,11 @@
 
 ### What can you select?
 
-- **PC** — Windows client
-- **Browser** — Web version
-- **Mobile** — Discord for Android
-- **Meta Quest** — VR identification
-- **Console** — PlayStation identification
+- **PC** — Windows
+- **Browser** — Web
+- **Mobile** — Android
+- **Meta Quest** — VR
+- **Console** — PlayStation
 
 The options are independent: select only the ones you want, or use the **Select all** and **Deselect all** buttons. Your choices are saved and applied via an automatic reconnection—no need to restart Discord.
 
